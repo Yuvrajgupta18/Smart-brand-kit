@@ -272,8 +272,7 @@ Initial release featuring:
 
 ## Author
 
-**Tanmay Jindal**
+**Yuvraj Gupta**
 
-GitHub: https://github.com/TanmayJindal1205
 
 ---
